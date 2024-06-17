@@ -1,2 +1,3 @@
 # Procesamiento-de-la-lengua-de-signos-LSE-
- Interpretación del lenguaje de signos y traducción a la lengua hablada mediante aprendizaje automático
+ 
+Procesamiento de la lengua de signos española mediante aprendizaje automático
